@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Wed, 04 Jan 2017 12:00:00 +0000
+Source: gpl
+Binary: gpl
+Architecture: source all
+Version: 0.3.10-0ubuntu1
+Distribution: unstable
+Urgency: low
+Maintainer: Linux Facilito <mralex6204@gmail.com>
+Changed-By: Linux Facilito <mralex6204@gmail.com>
+Description: 
+ gpl        - Facilita el uso de Linux/GNU
+Changes: 
+ gpl (0.3.10-0ubuntu1) unstable; urgency=low
+ .
+   * se han agregado mas funciones
+Checksums-Sha1: 
+ 68a5f50186074e0e4e15888627d8682e6eb1005e 1325 gpl_0.3.10-0ubuntu1.dsc
+ f095781282b986518eb857e1cf5058a104381d7a 1879 gpl_0.3.10-0ubuntu1.diff.gz
+ f9914e16e803f17365acd0a2bf0ab3058e0c557f 51850 gpl_0.3.10-0ubuntu1_all.deb
+Checksums-Sha256: 
+ de3a4d27a0b54d29716a4277275c102c94564d0152b6b4a86bb86b4200ae3150 1325 gpl_0.3.10-0ubuntu1.dsc
+ dfdb618de68fb48b20e166b3a5aa22d91df42d4880a05eb4a640cb14ddbff734 1879 gpl_0.3.10-0ubuntu1.diff.gz
+ e7db6f305bc386c1346fe423bcf616b84f9567264d9c7612d89b7c5c8a6df948 51850 gpl_0.3.10-0ubuntu1_all.deb
+Files: 
+ 24f9368c2d590d113424f29e792e32ca 1325 contrib/utils optional gpl_0.3.10-0ubuntu1.dsc
+ cc48ad30672f2111e9cfe2164fb4fc57 1879 contrib/utils optional gpl_0.3.10-0ubuntu1.diff.gz
+ db65ebee0fec6f93138cf6c6ebdb967e 51850 contrib/utils optional gpl_0.3.10-0ubuntu1_all.deb

@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Wed, 04 Jan 2017 12:00:00 +0000
+Source: gpl
+Binary: gpl
+Architecture: source all
+Version: 0.3.10-1
+Distribution: unstable
+Urgency: low
+Maintainer: Linux Facilito <mralex6204@gmail.com>
+Changed-By: Linux Facilito <mralex6204@gmail.com>
+Description: 
+ gpl        - Facilita el uso de Linux/GNU
+Changes: 
+ gpl (0.3.10-1) unstable; urgency=low
+ .
+   * se han agregado mas funciones
+Checksums-Sha1: 
+ 56a6bbbdce44b25841e747ca1d70bee2fee5149c 1297 gpl_0.3.10-1.dsc
+ 621760189b814ec22506f06218efc2b499c3fd68 1873 gpl_0.3.10-1.diff.gz
+ a7d363d85f647d4effa31f0dccfe710f17921fbe 51876 gpl_0.3.10-1_all.deb
+Checksums-Sha256: 
+ 91baca9c4564c53280889b68d399d473a12698c79375343f83b22655417084b2 1297 gpl_0.3.10-1.dsc
+ 072eee742b99ad32cac5bacd5ab57b7cd48e17bf56dc183f6220f7eb10d99e1e 1873 gpl_0.3.10-1.diff.gz
+ 6611745694229968dda0d767af1edbae38d66409b182c0898c6144f1883fa57b 51876 gpl_0.3.10-1_all.deb
+Files: 
+ 75dee5dbbcf8b0d6b40ff9ba49e7818e 1297 contrib/admin optional gpl_0.3.10-1.dsc
+ 69159b952bccf54a291a1ef079de3d3d 1873 contrib/admin optional gpl_0.3.10-1.diff.gz
+ 3d10ace4690bb303359410ad2a1bb500 51876 contrib/admin optional gpl_0.3.10-1_all.deb
